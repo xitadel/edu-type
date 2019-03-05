@@ -1,2 +1,1 @@
-# edu-type
-Education Type Extended and Screen. 
+# Education Type
